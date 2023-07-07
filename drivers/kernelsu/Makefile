@@ -9,7 +9,6 @@ obj-y += manager.o
 obj-y += core_hook.o
 obj-y += ksud.o
 obj-y += embed_ksud.o
-obj-y += kernel_compat.o
 
 obj-y += selinux/
 
